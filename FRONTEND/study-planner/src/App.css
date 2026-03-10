@@ -1,0 +1,85 @@
+.App {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #333;
+  text-align: center;
+}
+
+.input-section {
+  margin: 20px 0;
+}
+
+input {
+  padding: 10px;
+  margin: 5px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+.subject-input {
+  display: flex;
+  gap: 10px;
+  margin: 10px 0;
+}
+
+.subject-input input {
+  flex: 1;
+}
+
+button {
+  background: #007bff;
+  color: white;
+  padding: 12px 24px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 10px 5px;
+}
+
+button:hover {
+  background: #0056b3;
+}
+
+.generate-btn {
+  background: #28a745;
+  font-size: 16px;
+  padding: 15px 30px;
+}
+
+.generate-btn:hover {
+  background: #218838;
+}
+
+.plan {
+  margin-top: 30px;
+  background: #f8f9fa;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.day {
+  margin: 20px 0;
+  padding: 15px;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.day h3 {
+  color: #007bff;
+  margin-bottom: 10px;
+}
+
+.day ul {
+  padding-left: 20px;
+}
+
+.day li {
+  margin: 8px 0;
+  font-size: 16px;
+}

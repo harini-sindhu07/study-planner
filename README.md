@@ -2,8 +2,7 @@
 
 **React + Python Flask** - Creates personalized 7-day study schedules!
 
-## ✨ LIVE DEMO
-![Demo](https://via.placeholder.com/800x400/4F46E5/FFFFFF?text=Study+Planner+Demo)
+
 
 ## 🚀 Features
 - ✅ Generates optimal 7-day study plans  
